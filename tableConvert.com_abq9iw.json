@@ -1,0 +1,74 @@
+﻿[
+    {
+        "career": "mining",
+        "value": 0
+    },
+    {
+        "career": "manufacturing",
+        "value": 534535
+    },
+    {
+        "career": "production",
+        "value": 9177
+    },
+    {
+        "career": "construction",
+        "value": 36519
+    },
+    {
+        "career": "retailing",
+        "value": 33587
+    },
+    {
+        "career": "postal",
+        "value": 13662
+    },
+    {
+        "career": "catering",
+        "value": 13132
+    },
+    {
+        "career": "computer",
+        "value": 6407
+    },
+    {
+        "career": "commercial",
+        "value": 15299
+    },
+    {
+        "career": "realestate",
+        "value": 20361
+    },
+    {
+        "career": "rent",
+        "value": 13715
+    },
+    {
+        "career": "research",
+        "value": 4084
+    },
+    {
+        "career": "public",
+        "value": 2846
+    },
+    {
+        "career": "repair",
+        "value": 595
+    },
+    {
+        "career": "education",
+        "value": 27473
+    },
+    {
+        "career": "cleaning",
+        "value": 20627
+    },
+    {
+        "career": "culture",
+        "value": 2377
+    },
+    {
+        "career": "social",
+        "value": 24599
+    }
+]
